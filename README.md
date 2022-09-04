@@ -1,6 +1,7 @@
-# research_vaults
+# Research vaults
+Collections of papers and notes for planning research and pet projects
 
-
+### Structure
 **notes** - mostly collection of notes from different papers/posts and more common notes from tutorials and workshops.
 
 **research directions** - more organized collections of papers and notes with backlog to read and different research directions. 
