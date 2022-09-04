@@ -1,0 +1,144 @@
+{
+  "main": {
+    "id": "f6b66147ef35b8ce",
+    "type": "split",
+    "children": [
+      {
+        "id": "17f108f5d7c9f65e",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "notes/naacl2022_workshop_low_resource.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "02ce3d2826ae31ce",
+    "type": "split",
+    "children": [
+      {
+        "id": "6e9f491e6dd9f116",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f524bf8457bbef98",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "3d10cca6a10a2a7a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "98593aad13496b42",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 330.5032558441162
+  },
+  "right": {
+    "id": "f6a856ebe6dc86b4",
+    "type": "split",
+    "children": [
+      {
+        "id": "ae007b014f016878",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0e8b2669e4fa0d3a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "notes/naacl2022_workshop_low_resource.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6a4a0a6b93b81219",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "notes/naacl2022_workshop_low_resource.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c80a0961a2dc4a75",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "5c44504116ec0dfa",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "notes/naacl2022_workshop_low_resource.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "17f108f5d7c9f65e",
+  "lastOpenFiles": [
+    "notes/naacl2022_workshop_multilingual_information_access.md",
+    "notes/naacl2022_workshop_low_resource.md",
+    "notes/README.md.md",
+    "research_projects/memory_interaction_in_QA_systems.md",
+    "notes/qa_presentation/odqa_presentation_plan.md",
+    "notes/papers/ElitePLM.md",
+    "Untitled.md",
+    "notes/ColBERTv2.md",
+    "notes/papers/RocketQAv2.md",
+    "notes/papers/CHARFORMER_ FAST CHARACTER TRANSFORMERS VIA GRADIENT-BASED SUBWORD TOKENIZATION.md"
+  ]
+}
