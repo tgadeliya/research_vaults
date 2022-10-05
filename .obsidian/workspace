@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/naacl2022_workshop_low_resource.md",
+            "file": "research_directions/text_generation.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/naacl2022_workshop_low_resource.md",
+                "file": "research_directions/text_generation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/naacl2022_workshop_low_resource.md",
+                "file": "research_directions/text_generation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/naacl2022_workshop_low_resource.md"
+                "file": "research_directions/text_generation.md"
               }
             }
           }
@@ -130,15 +130,15 @@
   },
   "active": "17f108f5d7c9f65e",
   "lastOpenFiles": [
-    "notes/naacl2022_workshop_multilingual_information_access.md",
-    "notes/naacl2022_workshop_low_resource.md",
-    "notes/README.md.md",
-    "research_projects/memory_interaction_in_QA_systems.md",
-    "notes/qa_presentation/odqa_presentation_plan.md",
-    "notes/papers/ElitePLM.md",
-    "Untitled.md",
-    "notes/ColBERTv2.md",
-    "notes/papers/RocketQAv2.md",
-    "notes/papers/CHARFORMER_ FAST CHARACTER TRANSFORMERS VIA GRADIENT-BASED SUBWORD TOKENIZATION.md"
+    "research_projects/generative_models_implemetations.md",
+    "research_directions/music.md",
+    "research_directions/multilinguality.md",
+    "research_directions/memory.md",
+    "research_projects/belarussian/parallel_corpus_textbooks.md",
+    "research_projects/belarussian/nlp_benchmark.md",
+    "research_projects/belarussian/ner_dataset.md",
+    "research_directions/resources for belarussian.md",
+    "research_directions/generative_models.md",
+    "research_directions/low-resource language modelling.md"
   ]
 }
