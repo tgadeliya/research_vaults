@@ -9,7 +9,7 @@ Authors propose rethink LM as visual recognition task and pre-train model on the
 
 PIXEL can handle char-level noise  and word-level noise
 
-![[Pasted image 20220805085521.png]]
+![[res/Pasted image 20220805085521.png]]
 
 PIXEL-base is a 112M parameter ViT-MAE architecture with a 12-layer ViT encoder (86M) and an 8-layer Transformer decoder (26M). The same patching procedure is used as ViT
 

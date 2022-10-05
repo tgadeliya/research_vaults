@@ -1,2 +1,1 @@
-[[art]]
-[implementations][]
+TOOD: Add links to every directions

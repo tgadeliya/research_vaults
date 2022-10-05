@@ -1,5 +1,5 @@
 Use combination of determenistic segmentation (BPE) and probabilistic to obtain more robust multilingual segmentation and hence better zero-shot performance on cross-lingual transfer from english to low-resource languages after fine-tuning
-![[Pasted image 20220805093013.png]]
+![[res/Pasted image 20220805093013.png]]
 Three losses:
 - determenistic CE loss (BPE)
 - probabilistic CE loss (BPE-Dropout)

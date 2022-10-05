@@ -111,24 +111,6 @@ A 2010 study estimated that "without TREC, U.S. Internet users would have spent 
 
 
 
-SQUAD
-
-CommonsenseQA
-
-
-Multi-hop?
-
-Multilingual?
-
-
-Mention of problems with constructing datasets
-
-
-I haven't mention all important datasets, that will appear in next part of the presentations
-
-
-
-
 
 
 

@@ -1,6 +1,4 @@
 - Dialogue
-	- evaluation
-	- TOD
 - QA
 		- Zero-shot,domain adaptation, etc.
 - Memory in LM
