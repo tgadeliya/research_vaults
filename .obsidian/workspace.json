@@ -4,16 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "17f108f5d7c9f65e",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "notes/naacl2022_workshop_low_resource.md",
-            "mode": "source",
-            "source": false
+        "id": "cbbb71a67e54754c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "63845003280296a7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        }
+        ]
       }
     ],
     "direction": "vertical"
@@ -26,14 +32,6 @@
         "id": "6e9f491e6dd9f116",
         "type": "tabs",
         "children": [
-          {
-            "id": "f524bf8457bbef98",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {}
-            }
-          },
           {
             "id": "3d10cca6a10a2a7a",
             "type": "leaf",
@@ -56,12 +54,24 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "f524bf8457bbef98",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 330.5032558441162
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "f6a856ebe6dc86b4",
@@ -77,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/naacl2022_workshop_low_resource.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/naacl2022_workshop_low_resource.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,28 +127,48 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/naacl2022_workshop_low_resource.md"
+                "file": "README.md"
               }
             }
+          },
+          {
+            "id": "d433bbe0ad0dfef2",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
-  "active": "17f108f5d7c9f65e",
+  "left-ribbon": {
+    "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "63845003280296a7",
   "lastOpenFiles": [
-    "notes/iclr2022_papers_list.md",
-    "research_directions/text_generation.md",
-    "Asdas.md",
+    "Untitled.canvas",
+    "2023-01-04.md",
+    "Materials backlog.md",
+    "research_projects/memory_interaction_in_QA_systems.md",
+    "research_projects/few-shot.md",
     "research_projects/generative_models_implemetations.md",
-    "research_directions/music.md",
-    "research_directions/multilinguality.md",
-    "research_directions/memory.md",
-    "research_projects/belarussian/parallel_corpus_textbooks.md",
-    "research_projects/belarussian/nlp_benchmark.md",
-    "research_projects/belarussian/ner_dataset.md"
+    "notes/nips2022_papers_list.md",
+    "notes/emnlp2022_papers_list.md",
+    "research_projects/question_generation_for_russian_jeopardy.md",
+    "research_projects/belarussian/clean_text_corpus paper.md"
   ]
 }
