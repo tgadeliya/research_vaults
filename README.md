@@ -1,4 +1,4 @@
-# Research vaults
+# [Archived] Old research vaults
 Collections of papers and notes for planning research and pet projects
 
 ### Structure
